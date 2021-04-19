@@ -1,2 +1,2 @@
 # lithium
-Experiential Growth
+Experimental Growth
